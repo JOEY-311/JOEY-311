@@ -12,7 +12,7 @@
   <div style="background: white; padding: 30px; border-radius: 35px; text-align: center; margin-bottom: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
     <h3 style="color: #D38293; letter-spacing: 2px;">📝 ABOUT ME</h3>
     <p style="color: #5A5A5A; line-height: 1.6;">
-      I currently living in Tianjin.<br>
+      I currently live in Tianjin.<br>
       My research interests include sentiment analysis and multimodal studies.
     </p>
     <p style="color: #5A5A5A;">
