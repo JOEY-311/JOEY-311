@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&pause=1000&color=F4A8B6&center=true&vCenter=true&width=435&lines=%F0%9F%8E%80+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%8E%80" alt="Typing SVG" />
 </h1>
 <h2 align="center" style="font-size: 18px; color: #A6A6A6; margin-top: -10px;">
-  ✿ Undergraduate students in Data Science at Nankai University 
+  ✿ I'm Joey! 
 </h2>
 
 <div align="center" style="background: linear-gradient(135deg, #FDF5F8, #FFE4ED); padding: 60px 20px; border-radius: 40px; max-width: 900px; margin: 0 auto;">
@@ -12,7 +12,7 @@
   <div style="background: white; padding: 30px; border-radius: 35px; text-align: center; margin-bottom: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
     <h3 style="color: #D38293; letter-spacing: 2px;">📝 ABOUT ME</h3>
     <p style="color: #5A5A5A; line-height: 1.6;">
-      I currently live in Tianjin.<br>
+      I'm a undergraduate students in Data Science at Nankai University, currently living in Tianjin.<br>
       My research interests include sentiment analysis and multimodal studies.
     </p>
     <p style="color: #5A5A5A;">
