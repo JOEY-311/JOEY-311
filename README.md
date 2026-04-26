@@ -67,14 +67,7 @@ Pub-LawBench"><img src="https://img.shields.io/badge/-View%20Demo-F4A8B6?style=f
 <div align="center" style="background: white; padding: 30px; border-radius: 35px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
   <h3 style="color: #D38293; letter-spacing: 2px;">🌸 LET'S CONNECT</h3>
   <p>
-    <!-- Instagram 徽章 -->
-    <a href="https://instagram.com/fishfish_0407" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-F4A8B6?style=flat-square&logo=instagram&logoColor=white&labelColor=D38293" alt="Instagram" />
-    </a>
-    <!-- 微博徽章 -->
-    <a href="https://weibo.com/u/847559892" target="_blank">
-      <img src="https://img.shields.io/badge/微博-F4A8B6?style=flat-square&logo=sinaweibo&logoColor=white&labelColor=D38293" alt="微博" />
-    </a>
+    
     <!-- 邮箱徽章 -->
     <a href="mailto:joeyzh555@gmail.com">
       <img src="https://img.shields.io/badge/Email-D38293?style=flat-square&logo=gmail&logoColor=white&labelColor=F4A8B6" alt="Email" />
