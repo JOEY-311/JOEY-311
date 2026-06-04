@@ -60,12 +60,6 @@ Pub-LawBench"><img src="https://img.shields.io/badge/-View%20Demo-F4A8B6?style=f
           </td>
         </tr>
       </table>
-    </div>
-  </div>
-  
-  <div style="background: white; padding: 30px; border-radius: 35px; text-align: center; margin-bottom: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
-    <h3 style="color: #D38293; letter-spacing: 2px;">✨ PROJECTS</h3>
-    <div align="center">
       <table>
         <tr>
           <td width="33%">
