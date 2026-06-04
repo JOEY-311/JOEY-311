@@ -62,6 +62,22 @@ Pub-LawBench"><img src="https://img.shields.io/badge/-View%20Demo-F4A8B6?style=f
       </table>
     </div>
   </div>
+  
+  <div style="background: white; padding: 30px; border-radius: 35px; text-align: center; margin-bottom: 30px; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
+    <h3 style="color: #D38293; letter-spacing: 2px;">✨ PROJECTS</h3>
+    <div align="center">
+      <table>
+        <tr>
+          <td width="33%">
+            <h4>🎨 G-TradeBench</h4>
+            <sub>A benchmark dataset and multi-agent system for evaluating large language models on cross-border food regulatory compliance tasks, covering regulations from China, the US, the EU (Germany/France), Japan, and South Korea. </sub><br>
+            <a href="https://github.com/JOEY-311/
+G-TradeBench"><img src="https://img.shields.io/badge/-View%20Demo-F4A8B6?style=flat-square&logo=github"/></a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
 
 <!-- 替代 GITHUB STATS 的区域：粉白社交卡片 -->
 <div align="center" style="background: white; padding: 30px; border-radius: 35px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.02);">
