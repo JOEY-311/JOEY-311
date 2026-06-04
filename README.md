@@ -78,7 +78,7 @@ G-TradeBench"><img src="https://img.shields.io/badge/-View%20Demo-F4A8B6?style=f
   <h3 style="color: #D38293; letter-spacing: 2px;">🌸 LET'S CONNECT</h3>
   <p>
     <!-- 邮箱徽章 -->
-    <a href="mailto:joeyzh555@gmail.com">
+    <a href="mailto:qyzheng555@gmail.com">
       <img src="https://img.shields.io/badge/Email-D38293?style=flat-square&logo=gmail&logoColor=white&labelColor=F4A8B6" alt="Email" />
     </a>
   </p>
